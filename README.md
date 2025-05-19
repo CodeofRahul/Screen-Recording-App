@@ -44,7 +44,8 @@
 
 ### 📸 Demo
 
-> _Demo video or screenshots can be added here later._
+![image](https://github.com/user-attachments/assets/3f25ad97-7202-4383-937e-74b4b0247deb)
+
 
 ---
 
